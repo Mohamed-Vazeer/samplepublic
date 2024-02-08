@@ -8,8 +8,8 @@ TARGET_URL = 'https://example.com/secret-page'
 
 # Login credentials
 payload = {
-    'username': 'your_username',
-    'password': 'your_password'
+    'username': 'abc@dexian.com',
+    'password': 'vazeeer'
 }
 
 with requests.Session() as session:
